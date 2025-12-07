@@ -9,5 +9,7 @@
   --font-weight: 400;
   --font-weight-bold: 700;
   --accent-color-tittle: rgba(219, 0, 255, 1);
+  --accent-color-additional:  rgba(255, 0, 112, 1);
+  --outline-color: rgba(255, 0, 112, 0.4);
 }
 
