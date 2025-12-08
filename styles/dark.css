@@ -5,6 +5,10 @@
   --text-color: rgba(241, 178, 206, 1);
   --tittle-text-color: rgba(0, 0, 40, 1);
   --accent-color-tittle: rgba(219, 0, 255, 1);
-  --accent-color-additional: var(--accent-color);
+  --accent-color-additional: rgba(255, 0, 112, 1);
   --outline-color: rgba(255, 0, 112, 0.4);
+
+  .header__decorated-text {
+    display: inline-block;
+  }
 }

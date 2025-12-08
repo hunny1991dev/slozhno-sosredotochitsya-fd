@@ -5,7 +5,7 @@
   --text-color: rgba(53, 52, 48, 1);
   --tittle-text-color: rgba(53, 52, 48, 1);
   --accent-color-tittle: rgba(255, 194, 230, 1);
-  --accent-color-additional: var(--tittle-text-color);
+  --accent-color-additional: rgba(53, 52, 48, 1);
   --outline-color: rgba(50, 49, 45, 0.4);
 
   .header__decorated-text {
@@ -21,11 +21,11 @@
     --text-color: rgba(53, 52, 48, 1);
     --tittle-text-color: rgba(53, 52, 48, 1);
     --accent-color-tittle: rgba(255, 194, 230, 1);
-    --accent-color-additional: var(--tittle-text-color);
+    --accent-color-additional: rgba(53, 52, 48, 1);
     --outline-color: rgba(50, 49, 45, 0.4);
 
     .header__decorated-text {
       display: none;
-    }
+    } 
   }
 }
